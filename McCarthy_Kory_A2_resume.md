@@ -30,7 +30,7 @@ University of Manitoba
 * C#
 * C++
 
-**Personal Projects**
+**Personal Projects:**
 * A top down shooter game made in unity(C#)
 * Path finding algorithm implementation (Java)
 * Android APP that randomly selects a restaurant within a given distance (Kotlin)
