@@ -1,5 +1,6 @@
 # Kory McCarthy
-6505 Southboine Drive, Winnipeg, Manitoba, R3R 0B7, (204)963-4711, mccarth9@myumanitoba.ca
+6505 Southboine Drive, Winnipeg, Manitoba, R3R 0B7,  
+(204)963-4711, mccarth9@myumanitoba.ca
 ## EDUCTION
 **Highschool Diploma** 2005-2017  
 St Johns Ravenscourt
