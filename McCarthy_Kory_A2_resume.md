@@ -1,12 +1,12 @@
 # Kory McCarthy
 6505 Southboine Drive, Winnipeg, Manitoba, R3R 0B7, (204)963-4711, mccarth9@myumanitoba.ca
 ## EDUCTION
-**Highschool Diploma** 2005-2017
+**Highschool Diploma** 2005-2017  
 St Johns Ravenscourt
 
-**Bachelor of Computer Science** 2017-present
-University of Manitoba
-GPA: 3.56/4.5
+**Bachelor of Computer Science** 2017-present  
+University of Manitoba  
+GPA: 3.56/4.5  
 Expected Date of Graduation: 2021
 
 ## Volunteer Experience
