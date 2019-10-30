@@ -33,4 +33,18 @@ This README is intended for users with little experience using markdown and gith
 3. Scroll down to "GitHub Pages" and click "Change theme".
 4. Scroll through the themes untill a desired one is found, select the desired theme then click "Select Theme".
 
-###Step 4. Revise the Jekyll theme front matter
+## More Resources
+* [Visit this link for markdown commands.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [An additional link for markdown commands.](https://github.github.com/gfm/)
+* [Visit this link for questions about working with GitHub.](https://help.github.com/en/github/working-with-github-pages)
+* [Visit the Atom forums for any atom related questions.](https://discuss.atom.io/)
+
+## Authors and Acknowledgments
+|Name: |Role:|
+|------|-----|
+|Kory McCarthy|Author|
+|Denesi Jatto|Editor|
+|Dow Griffith|Editor|
+|Christina Penner|Prof|
+
+## FAQs
