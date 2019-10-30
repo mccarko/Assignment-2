@@ -3,7 +3,7 @@
 This README is intended for users with little experience using markdown and github. Perhaps this is your first experience with creating a webpage or maybe you have no experience using markdown. Regardless of your ability following the steps below will allow for even someone with no tech experience to be able to upload nice looking webpages using GitHub.
 ## Prerequisites
 * [Download and install Atom.](https://atom.io/)
-* [Create a github account if needed.](https://github.com/join)
+* [Create a GitHub account if needed.](https://github.com/join)
 ## Instructions
 ### Step 1. Write your Resume in markdown
 1. Make sure you have an editor like [Atom](https://atom.io/) installed.
