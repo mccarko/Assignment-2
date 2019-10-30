@@ -9,9 +9,9 @@ This README is intended for users with little experience using markdown and GitH
 1. Make sure you have an editor like [Atom](https://atom.io/) installed.
 2. Once done launch Atom.
 3. Open the file tab located at the top right corner of Atom and select add project folder.
- 1. Chose the location of where you want the project folder to be.
- 2. Right click and select make new folder (name it whatever you like).
- 2. Select the created folder then click the button on the bottom right of the window to confirm the selection.
+    1. Chose the location of where you want the project folder to be.
+    2. Right click and select make new folder (name it whatever you like).
+    2. Select the created folder then click the button on the bottom right of the window to confirm the selection.
 3. Open the file tab and select new file.
 4. Save the file in your project folder as "index.md" (it must be named exactly like this or else GitHub will not automatically display your resume page by default).
 5. Download [this extension](https://atom.io/packages/markdown-preview) to be able to preview work (feel free to search around for other extensions that look interesting at [this link](https://atom.io/packages).
@@ -54,10 +54,10 @@ This README is intended for users with little experience using markdown and GitH
 
 ## FAQs
 * When I click on my website link I am shown the README instead of the resume, any solution?
- * Make sure your resume is titled index.md. GitHub will default to showing README if no index file is found so ensure that your resume is title index and the link should display it.
+    * Make sure your resume is titled index.md. GitHub will default to showing README if no index file is found so ensure that your resume is title index and the link should display it.
 * I am using a non markdown language but still want to post my pages using GitHub, can I still use this README?
- * Yes, much of the information included is not markdown specific. You will need to find other resources if you require help writing in a different language however the information regarding GitHub hosting and Jekyll themes will remain true regardless of the language you use. 
+     * Yes, much of the information included is not markdown specific. You will need to find other resources if you require help writing in a different language however the information regarding GitHub hosting and Jekyll themes will remain true regardless of the language you use. 
 * I didn't name my resume index.md, how can I fix this?
- * Click on the resume file then select the pencil in the top right corner of the preview window. You should now be able to type over the file name and replace it with index.md.
+     * Click on the resume file then select the pencil in the top right corner of the preview window. You should now be able to type over the file name and replace it with index.md.
 * After uploading I noticed that I made a mistake in my formatting. Do I have to reupload the file with the changes done in Atom or can I make changes in GitHub?
- * You can edit your markdown files on the GitHub site. First select the file you want to change then click on the pencil located at the top right corner of the preview window. You are now able to edit the file.
+     * You can edit your markdown files on the GitHub site. First select the file you want to change then click on the pencil located at the top right corner of the preview window. You are now able to edit the file.
