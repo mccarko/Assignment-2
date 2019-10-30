@@ -6,7 +6,7 @@ This README is intended for users with little experience using markdown and gith
 * [Create a github account if needed.](https://github.com/join)
 ## Instructions
 ### Step 1. Write your Resume in markdown
-1. Make sure you have an editor like [Atom] installed(https://atom.io/).
+1. Make sure you have an editor like [Atom](https://atom.io/) installed.
 2. Once done launch Atom.
 3. Open the file tab located at the top right corner of Atom and select add project folder.
  1. Chose the location of where you want the project folder to be.
