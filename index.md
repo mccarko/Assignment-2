@@ -15,12 +15,12 @@ Expected Date of Graduation: 2021
 Saint Johns Ravenscourt
 * Planned a 200 person Winnipeg wide conference for Highschool kids that taught leadership techniques they could use to improve their own schools.
 * Handled communications with catering staff and maintenance to ensure the conference was supplied with everything it needed.
-* Personally ran one of the workshops which required speaches, demonstrations, and individual assistance.
+* Personally ran one of the workshops which required speeches, demonstrations, and individual assistance.
 
 **Setup/Ticket sales for Manitoba ESports expo** 2019
 University of Manitoba
 * Assisted with the setup of the venue and driving required to deliver equipment to the site.
-* Worked ticket sales which required usage of the square payment proccessing software
+* Worked ticket sales which required usage of the square payment processing software
 
 ## Computer Skills
 **Languages:**
